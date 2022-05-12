@@ -1,4 +1,5 @@
 # Stock-Analyzer
+Stock Analyzer Tool © 2022 by Conor Meyer is licensed under CC BY-NC 4.0
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
 You are free to:
